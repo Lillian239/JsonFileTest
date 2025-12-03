@@ -58,13 +58,80 @@
     "startTime": "09:00",
     "endTime": "12:00",
     "location": "Computer Space",
-    "category": "Family" "Community",
+    "category": "Family",
     "description": "Nuclear Bob-Bomb.",
     "capacity": 90,
     "spotsRemaining": 1,
     "isCancelled": false
   }
   
+  {
+    "id": 106,
+    "title": "Art Workshop: Watercolour Basics",
+    "date": "2025-08-15",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "location": "Creative Arts Room",
+    "category": "Arts",
+    "description": "A guided beginner session exploring watercolour techniques.",
+    "capacity": 25,
+    "spotsRemaining": 9,
+    "isCancelled": false
+  },
+  {
+    "id": 107,
+    "title": "Evening Run Club",
+    "date": "2025-08-15",
+    "startTime": "18:30",
+    "endTime": "19:45",
+    "location": "Riverside Track",
+    "category": "Fitness",
+    "description": "A relaxed group run suitable for all skill levels.",
+    "capacity": 40,
+    "spotsRemaining": 28,
+    "isCancelled": false
+  },
+  {
+    "id": 108,
+    "title": "Board Game Social",
+    "date": "2025-08-16",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "location": "Community Hall B",
+    "category": "Social",
+    "description": "Bring your favourite games or join one on-site.",
+    "capacity": 50,
+    "spotsRemaining": 33,
+    "isCancelled": false
+  },
+  {
+    "id": 109,
+    "title": "Coding for Kids",
+    "date": "2025-08-17",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "location": "Tech Lab",
+    "category": "Community",
+    "description": "Hands-on introduction to programming for ages 8–12.",
+    "capacity": 20,
+    "spotsRemaining": 5,
+    "isCancelled": false
+  },
+  {
+    "id": 110,
+    "title": "Jazz Night Live",
+    "date": "2025-08-17",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "location": "Performance Hall",
+    "category": "Music",
+    "description": "A live performance featuring local jazz artists.",
+    "capacity": 100,
+    "spotsRemaining": 47,
+    "isCancelled": false
+  }
+]
+
   
   
   
