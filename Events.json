@@ -52,7 +52,7 @@
     "isCancelled": false
   },
   {
-   "id": 105,
+    "id": 105,
     "title": "ComputerTest",
     "date": "2025-12-02",
     "startTime": "09:00",
@@ -64,7 +64,6 @@
     "spotsRemaining": 1,
     "isCancelled": false
   },
-  
   {
     "id": 106,
     "title": "Art Workshop: Watercolour Basics",
@@ -130,11 +129,4 @@
     "spotsRemaining": 47,
     "isCancelled": false
   }
-
-
-  
-  
-  
-  
 ]
-
